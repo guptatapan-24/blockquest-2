@@ -73,6 +73,3 @@ export async function GET(request: NextRequest) {
     expiresAt: stored.expiry,
   });
 }
-
-// Export the nonce store for use in verification
-export { nonceStore };
