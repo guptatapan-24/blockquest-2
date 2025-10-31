@@ -159,6 +159,9 @@ backend:
       - working: true
         agent: "main"
         comment: "Nonce generation API working correctly, unchanged from original implementation"
+      - working: true
+        agent: "testing"
+        comment: "✅ TESTED: Firebase nonce generation API fully functional. POST /api/auth/nonce generates proper nonce/nonceHash with expiry. GET retrieval works. Input validation working (400 for missing fields, 404 for invalid userId). All edge cases handled correctly."
 
   - task: "Existing Signature Verification API"
     implemented: true
