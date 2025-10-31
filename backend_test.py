@@ -11,7 +11,7 @@ import sys
 from typing import Dict, Any, Optional
 
 # Configuration
-BASE_URL = "https://chainauth.preview.emergentagent.com"
+BASE_URL = "https://vercel-compile-help.preview.emergentagent.com"
 API_BASE = f"{BASE_URL}/api"
 
 class BackendTester:
