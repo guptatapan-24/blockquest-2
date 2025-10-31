@@ -1,15 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server';
 import { verifySignature } from '@/lib/ethers';
-
-// Import nonce store (in production, use shared Redis/database)
-let nonceStore: Map<string, { nonce: string; hash: string; expiry: number }>;
-
-try {
-  // Dynamic import to access the store
-  nonceStore = new Map();
-} catch (error) {
-  nonceStore = new Map();
-}
+import { nonceStore } from '@/lib/nonceStore';
 
 // Rate limiting (simple in-memory, use Redis in production)
 const rateLimitMap = new Map<string, { count: number; resetTime: number }>();
