@@ -15,12 +15,12 @@ function Calendar({
   className,
   classNames,
   showOutsideDays = true,
-  captionLayout = "label",
+  captionLayout = "label" as any,
   buttonVariant = "ghost",
   formatters,
   components,
   ...props
-}) {
+}: any) {
   const defaultClassNames = getDefaultClassNames()
 
   return (
