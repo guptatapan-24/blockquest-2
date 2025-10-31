@@ -63,7 +63,7 @@ const ChartStyle = ({
           .map(([theme, prefix]) => `
 ${prefix} [data-chart=${id}] {
 ${colorConfig
-.map(([key, itemConfig]) => {
+.map(([key, itemConfig]: any) => {
 const color =
   itemConfig.theme?.[theme] ||
   itemConfig.color
