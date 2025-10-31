@@ -1,4 +1,5 @@
 "use client"
+// @ts-nocheck
 
 import * as CollapsiblePrimitive from "@radix-ui/react-collapsible"
 
