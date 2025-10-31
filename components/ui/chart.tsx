@@ -182,7 +182,7 @@ const ChartTooltipContent = React.forwardRef<any, any>((
                           {
                             "--color-bg": indicatorColor,
                             "--color-border": indicatorColor
-                          }
+                          } as any
                         } />
                     )
                   )}
