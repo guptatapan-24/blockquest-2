@@ -371,22 +371,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 ---
 
-## 📧 Contact
-
-**Project Team**: BlockQuest Innovators  
-**Email**: contact@wallet2fa.dev  
-**GitHub**: [github.com/yourusername/wallet-2fa](https://github.com/yourusername/wallet-2fa)
-
----
-
-## 🏆 Built for BlockQuest 2025
-
-**Track 4**: Blockchain × Cybersecurity  
-**Challenge**: Q9 - Wallet-Based 2FA  
-**Goal**: $300 prize, innovating authentication for Web3
-
-**Tagline**: *"Secure logins with wallet signatures—no SMS needed."*
-
----
-
-Made with ❤️ for the blockchain community
+Made with ❤️ for BlockQuest 2025
