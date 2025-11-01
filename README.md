@@ -79,6 +79,29 @@ Before you begin, ensure you have:
 
 ---
 
+## 🪙 Blockchain Integration
+> “The credentials provided to the wallet are for testing purposes only. No one can withdraw or use the test Ethereum for personal use.”
+To use this app:
+1. Install the **MetaMask browser extension**.
+2. Open the extension.
+3. Connect the **Test MetaMask wallet** with the credentials provided below.
+4. Create a password to access wallet on your device.
+5. Click on the hamburger icon in top right corner and select **Networks**.
+6. Click on **Show test networks** and click on the three dots next to **Sepolia**.
+7. Add the **RPC URL** as provided below.
+8. Click on Save.
+
+---
+
+## Test Credentials
+
+| Name | Value |
+|---------|-------------|
+| `Secret recovery phase for wallet` | dragon call decorate picture vital worry whale still update sentence syrup march |
+| `RPC URL` | https://sepolia.infura.io/v3/f4f7ccc8d8a9467e8d04526b177ecc7f |
+
+---
+
 ## ⚡ Quick Start
 
 ### 1. Clone Repository
