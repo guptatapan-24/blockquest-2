@@ -382,7 +382,7 @@ Contributions welcome! Please follow:
 
 | Description | Link |
 |--------------|------|
-| **Project Setup and Demo (Full Walkthrough)** | [Watch on Google Drive](https://drive.google.com/file/d/1q3JXfXszcrz7OlDkwFWvrKtr8eZUFkn0/view?usp=drive_link) |
+| **Project Setup and Demo (Full Walkthrough)** | [Watch on Google Drive](https://drive.google.com/file/d/1kQTTQgh8RQfeO5tof4QnKTr9Gjn3lHUA/view?usp=drive_link) |
 
 ---
 
