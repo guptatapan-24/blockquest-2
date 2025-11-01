@@ -378,6 +378,28 @@ Contributions welcome! Please follow:
 
 ---
 
+## 📸 Project Demonstration
+
+### 🖼️ Screenshots
+
+| Feature | Screenshot |
+|----------|-------------|
+| **Homepage** | ![Homepage Screenshot](./assets/homepage.png) |
+| **Login Page** | ![Generate Page](./assets/generate.png) |
+| **Dashboard** | ![Blockchain Proof](./assets/blockchain-proof.png) |
+| **Reddit Social Feed page** | ![Blockchain Proof](./assets/blockchain-proof.png) |
+| **Verification Page** | ![Verification Page](./assets/verify.png) |
+
+---
+
+### 🎥 Demo / Setup Video
+
+| Description | Link |
+|--------------|------|
+| **Project Setup and Demo (Full Walkthrough)** | [Watch on Google Drive](https://drive.google.com/file/d/1q3JXfXszcrz7OlDkwFWvrKtr8eZUFkn0/view?usp=drive_link) |
+
+---
+
 ## 📝 License
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
