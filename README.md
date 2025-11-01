@@ -314,19 +314,6 @@ event LoginProof(
 
 ---
 
-## 📊 Demo & Screenshots
-
-### Landing Page
-![Landing Page](screenshots/landing.png)
-
-### 2FA Challenge
-![2FA Challenge](screenshots/2fa.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
----
-
 ## 🎯 Hackathon Alignment
 
 ### Problem Solved (Q9: Wallet-Based 2FA)
@@ -384,11 +371,10 @@ Contributions welcome! Please follow:
 
 | Feature | Screenshot |
 |----------|-------------|
-| **Homepage** | ![Homepage Screenshot](./assets/homepage.png) |
-| **Login Page** | ![Generate Page](./assets/generate.png) |
-| **Dashboard** | ![Blockchain Proof](./assets/blockchain-proof.png) |
-| **Reddit Social Feed page** | ![Blockchain Proof](./assets/blockchain-proof.png) |
-| **Verification Page** | ![Verification Page](./assets/verify.png) |
+| **Homepage** | ![Homepage Screenshot](./assets/Homepage.png) |
+| **Dashboard** | ![Dashboard](./assets/Dashboard.png) |
+| **Reddit Social Feed page** | ![Social Feed](./assets/Feed.png) |
+| **Verification Page** | ![Verification Page](./assets/Proof.png) |
 
 ---
 
